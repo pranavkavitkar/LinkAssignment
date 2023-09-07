@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 2,
+  "passes": 2,
+  "pending": 0,
+  "failures": 0,
+  "start": "2023-09-07T11:10:34.986Z",
+  "duration": 4343,
+  "file": "cypress/e2e/basicAuth.cy.js"
+}

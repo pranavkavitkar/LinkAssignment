@@ -1,0 +1,3 @@
+class basic_auth{
+  
+}
